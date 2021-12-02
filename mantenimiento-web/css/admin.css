@@ -1,0 +1,72 @@
+/* --------------------------------------------------------------------------- */
+/* Estilos plugin Mantenimiento web
+/* --------------------------------------------------------------------------- */
+.cdp-mweb-admin-contenedor {
+}
+.cdp-mweb-admin-contenedor table {
+	border-collapse: collapse;
+	padding: 0;
+	margin: 0;
+}
+.cdp-mweb-admin-contenedor table th {
+	padding: 5px 10px 5px 0;
+	font-weight: normal;
+	text-align: right;
+	vertical-align: top;
+	border:0px solid #ccc;
+}
+.cdp-mweb-admin-contenedor table th label {
+	font-weight: bold;
+}
+.cdp-mweb-admin-contenedor table td {
+	padding:5px 0;
+	min-width: 300px;
+	vertical-align: top;
+	border:0px solid #ccc;
+}
+.cdp-mweb-admin-contenedor table td textarea {
+	width:100%;
+}
+.cdp-mweb-admin-contenedor table td select {
+	width:50%;
+}
+
+/* --------------------------------------------------------------------------- */
+/* Tabla para elegir el diseño
+/* --------------------------------------------------------------------------- */
+.cdp-mweb-admin-contenedor table.cdp_plantilla td {
+	vertical-align: top;
+	min-width: auto;
+	padding:0 10px 10px 0;
+	text-align: center;
+}
+.cdp-mweb-admin-contenedor table.cdp_plantilla td input {
+	margin:0 0 10px 0;
+	padding: 0;
+}
+
+/* --------------------------------------------------------------------------- */
+/* Mensajes error
+/* --------------------------------------------------------------------------- */
+.cdp-mweb-admin-mensaje {
+	padding: 10px;
+	margin: 0 0 10px 0;
+}
+.cdp-mweb-admin-mensaje.cdp-aviso {
+	border:1px solid #8c8;
+}
+.cdp-mweb-admin-mensaje.cdp-error {
+	border:1px solid #c88;
+}
+
+/* --------------------------------------------------------------------------- */
+/* Otros
+/* --------------------------------------------------------------------------- */
+.cdp-mweb-admin-contenedor ul {
+	list-style: disc;
+	margin:0 0 0 15px;
+	padding:0;
+}
+.cdp-mweb-admin-contenedor ul li {
+	
+}

@@ -1,0 +1,134 @@
+#cf7md-form .mdc-floating-label {
+	font-size: 16px;
+	line-height: 28px;
+	line-height: 18.4px;
+}
+#cf7md-form .mdc-text-field-helper-text {
+	font-size: 12px;
+	line-height: 20px;
+}
+#cf7md-form .mdc-text-field__input {
+	font-size: 16px;
+	line-height: 28px;
+}
+#cf7md-form .mdc-text-field--outlined .mdc-floating-label--float-above {
+	font-size: 12px;
+}
+#cf7md-form
+	.mdc-text-field--outlined.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above,
+#cf7md-form
+	.mdc-text-field--outlined
+	.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above {
+	font-size: 16px;
+}
+#cf7md-form
+	.mdc-text-field--outlined.mdc-text-field--dense
+	.mdc-floating-label--float-above {
+	font-size: 12.8px;
+}
+#cf7md-form
+	.mdc-text-field--outlined.mdc-text-field--dense.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above,
+#cf7md-form
+	.mdc-text-field--outlined.mdc-text-field--dense
+	.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above {
+	font-size: 16px;
+}
+#cf7md-form
+	.mdc-text-field--with-leading-icon.mdc-text-field--outlined
+	.mdc-floating-label--float-above {
+	font-size: 12px;
+}
+#cf7md-form
+	.mdc-text-field--with-leading-icon.mdc-text-field--outlined.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above,
+#cf7md-form
+	.mdc-text-field--with-leading-icon.mdc-text-field--outlined
+	.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above {
+	font-size: 16px;
+}
+#cf7md-form
+	.mdc-text-field--with-leading-icon.mdc-text-field--outlined.mdc-text-field--dense
+	.mdc-floating-label--float-above {
+	font-size: 12.8px;
+}
+#cf7md-form
+	.mdc-text-field--with-leading-icon.mdc-text-field--outlined.mdc-text-field--dense.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above,
+#cf7md-form
+	.mdc-text-field--with-leading-icon.mdc-text-field--outlined.mdc-text-field--dense
+	.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above {
+	font-size: 16px;
+}
+#cf7md-form .mdc-text-field--dense .mdc-floating-label {
+	font-size: 13px;
+}
+#cf7md-form .mdc-text-field--dense .mdc-floating-label--float-above {
+	font-size: 13px;
+}
+#cf7md-form .mdc-text-field--textarea .mdc-floating-label--float-above {
+	font-size: 12px;
+}
+#cf7md-form
+	.mdc-text-field--textarea.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above,
+#cf7md-form
+	.mdc-text-field--textarea
+	.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above {
+	font-size: 16px;
+}
+#cf7md-form .mdc-select-helper-text {
+	font-size: 12px;
+	line-height: 20px;
+}
+#cf7md-form .mdc-select__native-control,
+#cf7md-form .mdc-select__selected-text {
+	font-size: 16px;
+	line-height: 28px;
+}
+#cf7md-form .mdc-select--outlined .mdc-floating-label--float-above {
+	font-size: 12px;
+}
+#cf7md-form
+	.mdc-select--outlined.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above,
+#cf7md-form
+	.mdc-select--outlined
+	.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above {
+	font-size: 16px;
+}
+#cf7md-form .mdc-select--outlined .mdc-floating-label {
+	line-height: 18.4px;
+}
+#cf7md-form
+	.mdc-select--with-leading-icon.mdc-select--outlined
+	.mdc-floating-label--float-above {
+	font-size: 12px;
+}
+#cf7md-form
+	.mdc-select--with-leading-icon.mdc-select--outlined.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above,
+#cf7md-form
+	.mdc-select--with-leading-icon.mdc-select--outlined
+	.mdc-notched-outline--upgraded
+	.mdc-floating-label--float-above {
+	font-size: 16px;
+}
+#cf7md-form .mdc-form-field {
+	font-size: 14px;
+	line-height: 20px;
+}
+#cf7md-form .mdc-button {
+	font-size: 14px;
+	line-height: 36px;
+}
+#cf7md-form .mdc-button--dense {
+	font-size: 13px;
+}
